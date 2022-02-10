@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "320354436560",
+    "project_id": "torulota-ee813",
+    "storage_bucket": "torulota-ee813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320354436560:android:855adb2182c572e876e5d5",
+        "android_client_info": {
+          "package_name": "com.example.torulota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320354436560-egkrevsrm3521ieam72ri3huiem07fhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQGuFCSBZDMFS-OEEXP_wh3HMmBFcEYDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320354436560-egkrevsrm3521ieam72ri3huiem07fhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
